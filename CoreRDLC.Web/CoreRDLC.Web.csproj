@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Reports\ReportEmpleados.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="wwwroot\Reports\ReportEmpleados.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Reporting" Version="2.1.0" />
+    <PackageReference Include="System.CodeDom" Version="5.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="ReportDataSet\dsEmpleados.Designer.cs">
+      <DependentUpon>dsEmpleados.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="ReportDataSet\dsEmpleados.xsc">
+      <DependentUpon>dsEmpleados.xsd</DependentUpon>
+    </None>
+    <None Update="ReportDataSet\dsEmpleados.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dsEmpleados.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="ReportDataSet\dsEmpleados.xss">
+      <DependentUpon>dsEmpleados.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+
+</Project>

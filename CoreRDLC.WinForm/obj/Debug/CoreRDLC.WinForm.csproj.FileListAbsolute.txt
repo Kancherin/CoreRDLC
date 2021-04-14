@@ -1,0 +1,10 @@
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\bin\Debug\CoreRDLC.WinForm.exe.config
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\bin\Debug\CoreRDLC.WinForm.exe
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\bin\Debug\CoreRDLC.WinForm.pdb
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\obj\Debug\CoreRDLC.WinForm.Properties.Resources.resources
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\obj\Debug\CoreRDLC.WinForm.csproj.GenerateResource.cache
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\obj\Debug\RdlCompile.cache
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\obj\Debug\RdlCompile.compiled
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\obj\Debug\CoreRDLC.WinForm.csproj.CoreCompileInputs.cache
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\obj\Debug\CoreRDLC.WinForm.exe
+C:\Projects\CoreRDLC\CoreRDLC.WinForm\obj\Debug\CoreRDLC.WinForm.pdb
