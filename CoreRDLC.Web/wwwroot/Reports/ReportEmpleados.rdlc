@@ -52,16 +52,16 @@
             <TablixBody>
               <TablixColumns>
                 <TablixColumn>
-                  <Width>1.53459cm</Width>
+                  <Width>2.21589cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>4.33917cm</Width>
+                  <Width>5.81422cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>4.97417cm</Width>
+                  <Width>5.2586cm</Width>
                 </TablixColumn>
                 <TablixColumn>
-                  <Width>4.85161cm</Width>
+                  <Width>6.75cm</Width>
                 </TablixColumn>
               </TablixColumns>
               <TablixRows>
@@ -312,7 +312,9 @@
                                   <Style />
                                 </TextRun>
                               </TextRuns>
-                              <Style />
+                              <Style>
+                                <TextAlign>Right</TextAlign>
+                              </Style>
                             </Paragraph>
                           </Paragraphs>
                           <rd:DefaultName>Cargo</rd:DefaultName>
@@ -353,9 +355,8 @@
             </TablixRowHierarchy>
             <DataSetName>dsEmpleados</DataSetName>
             <Top>0.10583cm</Top>
-            <Left>0.89958cm</Left>
             <Height>1.2cm</Height>
-            <Width>15.69954cm</Width>
+            <Width>20.0387cm</Width>
             <Style>
               <Border>
                 <Style>None</Style>
@@ -370,7 +371,7 @@
           </Border>
         </Style>
       </Body>
-      <Width>6.56634in</Width>
+      <Width>7.88925in</Width>
       <Page>
         <PageHeader>
           <Height>2cm</Height>
@@ -397,7 +398,7 @@
               </Paragraphs>
               <rd:DefaultName>Textbox9</rd:DefaultName>
               <Height>0.83812cm</Height>
-              <Width>16.59912cm</Width>
+              <Width>20.0387cm</Width>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -427,7 +428,7 @@
               <rd:DefaultName>prm</rd:DefaultName>
               <Top>1.01451cm</Top>
               <Height>0.6cm</Height>
-              <Width>16.59912cm</Width>
+              <Width>20.0387cm</Width>
               <ZIndex>1</ZIndex>
               <Style>
                 <Border>
@@ -462,14 +463,16 @@
                       <Style />
                     </TextRun>
                   </TextRuns>
-                  <Style />
+                  <Style>
+                    <TextAlign>Right</TextAlign>
+                  </Style>
                 </Paragraph>
               </Paragraphs>
               <rd:DefaultName>PageNumber</rd:DefaultName>
-              <Top>0.10583cm</Top>
-              <Left>12.19412cm</Left>
+              <Top>0.03528cm</Top>
+              <Left>15.26329cm</Left>
               <Height>0.6cm</Height>
-              <Width>4.405cm</Width>
+              <Width>4.77542cm</Width>
               <Style>
                 <Border>
                   <Style>None</Style>
@@ -489,10 +492,10 @@
         </PageFooter>
         <PageHeight>29.7cm</PageHeight>
         <PageWidth>21cm</PageWidth>
-        <LeftMargin>2cm</LeftMargin>
-        <RightMargin>2cm</RightMargin>
-        <TopMargin>2cm</TopMargin>
-        <BottomMargin>2cm</BottomMargin>
+        <LeftMargin>0.2cm</LeftMargin>
+        <RightMargin>0.2cm</RightMargin>
+        <TopMargin>0.2cm</TopMargin>
+        <BottomMargin>0.2cm</BottomMargin>
         <ColumnSpacing>0.13cm</ColumnSpacing>
         <Style />
       </Page>

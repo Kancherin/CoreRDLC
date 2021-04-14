@@ -51,3 +51,4 @@ C:\Projects\CoreRDLC\CoreRDLC.Web\obj\Debug\netcoreapp3.1\CoreRDLC.Web.csproj.Co
 C:\Projects\CoreRDLC\CoreRDLC.Web\obj\Debug\netcoreapp3.1\CoreRDLC.Web.dll
 C:\Projects\CoreRDLC\CoreRDLC.Web\obj\Debug\netcoreapp3.1\CoreRDLC.Web.pdb
 C:\Projects\CoreRDLC\CoreRDLC.Web\obj\Debug\netcoreapp3.1\CoreRDLC.Web.genruntimeconfig.cache
+C:\Projects\CoreRDLC\CoreRDLC.Web\obj\Debug\netcoreapp3.1\CoreRDLC.Web.csprojAssemblyReference.cache
